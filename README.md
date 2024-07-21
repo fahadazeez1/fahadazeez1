@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fahadazeez1
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning powerBI , SQL and Solving hackerRank Python problems
+- 👋 Hi, I’m Fahad Azeez
+- 👀 Enthusiastic about data science.
+- 🌱 Currently learning powerBI , SQL and Solving hackerRank Python problems
   
 
 <!---
