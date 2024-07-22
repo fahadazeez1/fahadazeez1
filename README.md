@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Fahad Azeez
-- 👀 Data science enthusiastic.
+- 👀 Data science enthusiast
+- .
 - 🌱 Currently learning powerBI , SQL and Solving HackerRank Python problems
   
 
